@@ -1,1 +1,1 @@
-Documentation for TrussMC
+Docs for the TrussMC project
